@@ -1,4 +1,5 @@
 function shout(string) {
+<<<<<<< HEAD
 return string.toUpperCase();
 }
 
@@ -27,4 +28,31 @@ return indeed;
 else if("I love you, Grandma." === string) {
 return love;
 }
+=======
+return string.toUpperCase()
+}
+
+function whisper(string) {
+  return string.toLowerCase()
+}
+
+function logShout(string) {
+  
+}
+
+function logWhisper(string) {
+  
+}
+
+function sayHiToGrandma(string) {
+  
+}
+
+function sayHiToGrandma(string) {
+  
+}
+
+function sayHiToGrandma(string) {
+  
+>>>>>>> e6046ae009e1f2c3d09debb522751076dea8a6cf
 }
